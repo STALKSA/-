@@ -11,3 +11,6 @@
 
 
 - [Макеты](https://www.figma.com/design/erIGFweUF1TJWRlqAC1rDF/%D0%94%D0%BE%D0%BC%D0%9E%D1%82%D0%B8%D0%94%D0%BE-(%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD)?node-id=2195-12060&p=f&t=Xj467jaNzOjkyz6Y-0)
+
+  ![image](https://github.com/user-attachments/assets/95e067e6-54f0-4505-8cd4-e59809c5abd2)
+
